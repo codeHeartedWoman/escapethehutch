@@ -1,0 +1,12 @@
+new Image("/images/bkgrd/bkgrd1.png");
+new Images("images/bun/bunF_3.png");
+new Image("images/bun/Shadow.png");
+
+    bazooka = new Image("images/WWIIweapons/Bazooka.png");
+    mk2Grenade = new Image("images/WWIIweapons/");
+    grenade = new Image("images/WWIIweapons/");
+    thompson = new Image("images/WWIIweapons/");
+    karabiner = new Image("images/WWIIweapons/");
+
+    cagedBun = new Image("images/friend/cagedBun.gif");
+    hunterImg = new Image("images/foe/badGuy1/badGuy1_F1.png");

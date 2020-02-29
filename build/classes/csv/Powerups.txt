@@ -1,0 +1,6 @@
+"clover", new Random().nextInt(800), new Random().nextInt(600), new Image("images/powerUp/powerUp_11.png"), 2
+"strawberry", new Random().nextInt(800), new Random().nextInt(600), new Image("images/powerUp/powerUp_12.png"), 3
+"carrot", new Random().nextInt(800), new Random().nextInt(600), new Image("images/powerUp/powerUp_13.png"), 1        
+"banana", new Random().nextInt(800), new Random().nextInt(600), new Image("images/powerUp/powerUp_14.png"), 10 
+"lettuce", new Random().nextInt(800), new Random().nextInt(600), new Image("images/powerUp/powerUp_3.png"), 5
+        
